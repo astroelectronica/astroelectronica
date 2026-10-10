@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm astroelectronic@ 👋
 
-<!--
-**astroelectronica/astroelectronica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[One sentence about yourself: who you are and what drives you.]
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Profession:** [your profession]
+- 🔭 **Hobbies:** [astronomy, electronics, ...]
+- 🌍 **Location:** [optional]
+- 📫 **Contact:** [email or link, optional]
+
+## How this account is organized
+
+My work is grouped into sections, each one in its own repository:
+
+| Section | Content | Tools |
+|---|---|---|
+| ⚡ Electronics | Designs, code and electronic simulations | AMPL, [simulator] |
+| 🔭 Astronomy | Astronomical simulations | Celestia |
+| ➗ Mathematics | Simulations and calculations | GNU Octave |
+| ⚙️ Mechanics | Mechanical design | FreeCAD, LibreCAD |
+| 💻 Computing | Programs and scripts | Python |
+
+More sections will be added over time.
+
+## Licenses
+
+[A short summary of how you license your code and designs.]
