@@ -17,7 +17,7 @@ My work is grouped into sections, each one in its own repository:
 
 | Section | Content | Tools |
 |---|---|---|
-| ⚡ Electronics | Designs, code and electronic simulations | LTspice, NGspice] |
+| ⚡ Electronics | Designs, code and electronic simulations | LTspice, NGspice |
 | 🔭 Astronomy | Astronomical simulations | Celestia |
 | ➗ Mathematics | Simulations and calculations | GNU Octave |
 | ⚙️ Mechanics | Mechanical design | FreeCAD, LibreCAD |
