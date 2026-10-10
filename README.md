@@ -4,10 +4,10 @@
 
 ## About me
 
-- 🔧 **Profession:** [your profession]
-- 🔭 **Hobbies:** [astronomy, electronics, ...]
-- 🌍 **Location:** [optional]
-- 📫 **Contact:** [email or link, optional]
+- 🔧 **Profession:** Electronic Engineer
+- 🔭 **Hobbies:** Astronomy, Electronics, Scinence
+- 🌍 **Location:** Barcelona, Spain
+- 📫 **Contact:** astroelectronica@gmail.com
 
 ## How this account is organized
 
