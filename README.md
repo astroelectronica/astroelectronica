@@ -16,13 +16,13 @@ I’m an electronic engineer, passionate about astronomy and science
 
 My work is grouped into sections, each one in its own repository:
 
-| Section | Content | Tools |
-|---|---|---|
-| ⚡ [Electronics](https://github.com/astroelectronica/electronics) | Designs, code and electronic simulations | LTspice, ngspice |
-| 🔭 Astronomy | Astronomical simulations | Celestia |
-| ➗ Mathematics | Simulations and calculations | GNU Octave |
-| ⚙️ Mechanics | Mechanical design | FreeCAD, LibreCAD |
-| 💻 Computing | Programs and scripts | Python |
+| ID | Section | Content | Tools |
+|---|---|---|---|
+| 01 | ⚡ [Electronics](https://github.com/astroelectronica/electronics) | Designs, code and electronic simulations | LTspice, ngspice |
+| 02 | 🔭 Astronomy | Astronomical simulations | Celestia |
+| 03 | ➗ Mathematics | Simulations and calculations | GNU Octave |
+| 04 | ⚙️ Mechanics | Mechanical design | FreeCAD, LibreCAD |
+| 05 | 💻 Computing | Programs and scripts | Python |
 
 More sections will be added over time.
 
