@@ -18,7 +18,7 @@ My work is grouped into sections, each one in its own repository:
 
 | ID | Section | Content | Tools |
 |---|---|---|---|
-| 01 | ⚡ [Electronics](https://github.com/astroelectronica/electronics) | Schematics, PCB and electronic simulations | Kicad, LTspice, ngspice, Qspice |
+| 01 | ⚡ [Electronics](https://github.com/astroelectronica/electronics) | Schematics, PCB and simulations | Kicad, LTspice, ngspice, Qspice |
 | 02 | 🔭 [Astronomy](https://github.com/astroelectronica/astronomy) | Astronomical simulations | Celestia |
 | 03 | ➗ [Mathematics](https://github.com/astroelectronica/mathematics) | Simulations and calculations | GNU Octave |
 | 04 | ⚙️ [Mechanics](https://github.com/astroelectronica/mechanics) | Mechanical design | FreeCAD, LibreCAD |
